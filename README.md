@@ -35,21 +35,4 @@ forge test
 
 I did not write deploy scripts for this project, you can if you'd like!
 
-## Estimate gas
 
-You can estimate how much gas things cost by running:
-
-```
-forge snapshot
-```
-
-And you'll see and output file called `.gas-snapshot`
-
-
-# Formatting
-
-
-To run code formatting:
-```
-forge fmt
-```
